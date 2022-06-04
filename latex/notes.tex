@@ -1,0 +1,51 @@
+\documentclass[a4]{article}
+
+\usepackage{hyperref}
+
+\title{Notes on Linear Algebra lib}
+\author{Tor Eldby}
+\title{}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+I want this document to be a rough description of the features I want for this library
+
+\subsection{Sources}
+There are a few sources I wish to have listed. Obviously there are math books, but I also want to have a set of "example libraries" or projects others have made. I am admittedly not well versed in library creation, and want to use this project as a good way to get better at it.\\
+\textbf{Books}
+\begin{itemize}
+\item Linear Algebra and its Applications
+\end{itemize}
+
+\textbf{Links}
+\begin{itemize}
+\item Writing a C++ linear algebra library from scratch\footnote{\url{https://sowb.github.io/2021/09/15/writing-a-c-linear-algebra-library-from-scratch.}}
+\end{itemize}
+
+\section{Basics}
+The base feature I want is to create matrices and vectors, along with handling basic mathematical operations between matrices and vectors (Addition, subtraction, scalar multiplication, determinants)
+
+\subsection{Data representation}
+I believe it should be a class. \\
+Should the data be templated? \\
+Should the dimensions be given through templates? \\
+How should the data be stored? Vectors? Arrays? \\
+Should the data be a 1-dimensional flattened array, or some 2D std::vector?\\ 
+Should the data be a set of library vectors ala column-vectors?
+
+\subsection{Addition}
+Note about vector and matrix addition, dimensionality, etc.
+
+\subsection{Subtraction}
+Note about vector and matrix subtraction, dimensionality, etc.
+
+\subsection{Scalar multiplication}
+Scalar multiplication of both vectors and matrices simply apply the scalar multiplication to each entry in the vector or matrix
+
+
+\section{Advanced}
+More advanced features would be reduction algorithms, calculating determinants
+
+\end{document}
