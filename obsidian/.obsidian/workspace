@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "91c98759b27f3cf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "79eccb664151f764",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Writing a C++ linear algebra library from scratch.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "5a51bf598dc472a9"
+      },
+      {
+        "id": "6573b3aa69495421",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Writing a C++ linear algebra library from scratch.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "5a51bf598dc472a9"
+      },
+      {
+        "id": "dbd954523144f488",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "QR algorithm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3be65a37b80e5a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f924ec98690d79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891bcba34e7c681a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e54f65ece9c9c1e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "032536c0997a54ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5f845294dbad7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3349c78c0257a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QR algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dbd954523144f488",
+  "lastOpenFiles": [
+    "QR algorithm.md",
+    "Writing a C++ linear algebra library from scratch.md",
+    "Features.md",
+    "sources.md",
+    "project.md",
+    "Root.md"
+  ]
+}

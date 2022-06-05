@@ -1,0 +1,5 @@
+# The LinAlg Project
+This project is meant to create a simple and functional linear algebra library. [[Features]] shall include matrices, vectors, addition, subtraction, multiplication, determinants, elimination algorithms.
+I will also have a review/study of potential [[sources]] I find and learn from. This is because I am admittedly unlearned in writing a C++ library, along with having more or less a solid foundation of C++ without much practice on top. I can read and understand a section of code well enough, but I haven't written my own code well enough to argue for why a function should or shouldn't be inline, constexpr, etc. 
+Topics of discussion would be programmatic representation of the data for the matrices and vectors, along with elimination algorithms and identifying pivot positions, columns, and rows.
+A bonus feature would be the ability to write a system of linear equations in their respective matrix/vector form and parametric form
