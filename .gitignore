@@ -1,3 +1,4 @@
 /build/*
 /latex/*
 !/latex/*.tex
+/code/*/CMakeLists.txt.user
