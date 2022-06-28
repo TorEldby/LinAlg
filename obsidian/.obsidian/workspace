@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing a C++ linear algebra library from scratch.md",
+            "file": "Writing your own linear algebra matrix library in C.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing a C++ linear algebra library from scratch.md",
+            "file": "Writing your own linear algebra matrix library in C.md",
             "mode": "preview",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QR algorithm.md",
+                "file": "Writing your own linear algebra matrix library in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbd954523144f488",
+  "active": "79eccb664151f764",
   "lastOpenFiles": [
-    "QR algorithm.md",
-    "Writing a C++ linear algebra library from scratch.md",
-    "Features.md",
+    "Writing your own linear algebra matrix library in C.md",
     "sources.md",
+    "Writing a C++ linear algebra library from scratch.md",
+    "QR algorithm.md",
+    "Features.md",
     "project.md",
     "Root.md"
   ]
