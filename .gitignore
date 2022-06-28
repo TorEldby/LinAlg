@@ -2,3 +2,4 @@
 /latex/*
 !/latex/*.tex
 /code/*/CMakeLists.txt.user
+/code/*/*.autosave
